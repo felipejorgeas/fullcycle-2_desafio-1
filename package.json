@@ -1,0 +1,28 @@
+{
+  "name": "fullcycle-2_desafio-1",
+  "version": "1.0.0",
+  "description": "Maratona Full Cycle 2.0 - Desafio 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Jorge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipejorgeas/fullcycle-2_desafio-1.git"
+  },
+  "keywords": [
+    "maratona",
+    "fullcycle",
+    "desafio"
+  ],
+  "bugs": {
+    "url": "https://github.com/felipejorgeas/fullcycle-2_desafio-1/issues"
+  },
+  "homepage": "https://github.com/felipejorgeas/fullcycle-2_desafio-1#readme"
+}
